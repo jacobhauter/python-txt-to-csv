@@ -3,7 +3,8 @@
 ## PROBLEM:
 - Daily transactional data was only available in text extracts  
 - Needed to convert and prepare these files on a daily basis to CSV in order to load into business intelligence softwares  
-- Manual process of conversion and editing took up to 25 minutes each day  
+- Data layout was not appropriate for business intelligence upload and contained unecessary information  
+- Manual process of conversion/preparation took up to 25 minutes each day  
 
 ## SOLUTION:
 - Utilized pandas and numpy packages to automate this daily task  
