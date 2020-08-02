@@ -16,4 +16,4 @@
 
 #### DISCLAIMER: 
 - All data is faux and not representative of myself, employers, clients, or associates.  
-- Though the templates and data layout is representative of what I worked with, the populated data itself is completely altered and fabricated.  
+- Though the templates and data layout is representative of what I worked with, the populated data itself is completely redacted/fabricated.  
