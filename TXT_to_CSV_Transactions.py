@@ -8,8 +8,8 @@
 MonthDigit = 1
 DayDigit = 1
 Year = 2020
-CurrentReportLocation = 'C:\\Users\\Jacob\\Desktop'
-DesiredReportLocation = 'C:\\Users\\Jacob\\Desktop'
+CurrentReportLocation = 'C:\\Users\\jhauter\\Desktop'
+DesiredReportLocation = 'C:\\Users\\jhauter\\Desktop'
 
 import pandas as pd
 import numpy as np
